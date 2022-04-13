@@ -1,0 +1,6 @@
+﻿  Computer.cpp
+  Message.cpp
+  Sliding Window.cpp
+C:\Users\blaga\OneDrive\Facultate\Teme\RC\Sliding Window\Sliding Window\Sliding Window.cpp(86,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Sliding Window.vcxproj -> C:\Users\blaga\OneDrive\Facultate\Teme\RC\Sliding Window\x64\Debug\Sliding Window.exe

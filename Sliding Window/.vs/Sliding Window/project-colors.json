@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ffb9462-5933-4caa-b8ad-3b63382f6e80": {
+      "ProjectGuid": "0ffb9462-5933-4caa-b8ad-3b63382f6e80",
+      "DisplayName": "Sliding Window",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
