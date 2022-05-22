@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r7oFe8kfTSDlNG95fz8NZSCscYZEgFumm8AByEX47Sdb3ybWZCNQ5BHQLGIX2dQ0Q+iQMGsjqW2IqBRjo5pRkA==",
+  "dgSpecHash": "YlhW8LrTvP0M5Q1NpuUcAjK8wFcdf9/MYLgFgduJKG0d5TO72dMIWEPcxlIiKvFfzyPjOHYEPLGHFjnt6gpJWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blaga\\OneDrive\\Facultate\\Teme\\RC\\TCP Crypt\\Client\\Client.csproj",
+  "projectFilePath": "C:\\GitHub\\Networking\\TCP Crypt\\Client\\Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

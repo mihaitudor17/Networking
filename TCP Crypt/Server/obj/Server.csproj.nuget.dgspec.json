@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blaga\\OneDrive\\Facultate\\Teme\\RC\\TCP Crypt\\Server\\Server.csproj": {}
+    "C:\\GitHub\\Networking\\TCP Crypt\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blaga\\OneDrive\\Facultate\\Teme\\RC\\TCP Crypt\\Server\\Server.csproj": {
+    "C:\\GitHub\\Networking\\TCP Crypt\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blaga\\OneDrive\\Facultate\\Teme\\RC\\TCP Crypt\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\GitHub\\Networking\\TCP Crypt\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\blaga\\OneDrive\\Facultate\\Teme\\RC\\TCP Crypt\\Server\\Server.csproj",
+        "projectPath": "C:\\GitHub\\Networking\\TCP Crypt\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\blaga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blaga\\OneDrive\\Facultate\\Teme\\RC\\TCP Crypt\\Server\\obj\\",
+        "outputPath": "C:\\GitHub\\Networking\\TCP Crypt\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blaga\\AppData\\Roaming\\NuGet\\NuGet.Config",

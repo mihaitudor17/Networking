@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blaga\\OneDrive\\Facultate\\Teme\\RC\\TCP Crypt\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\GitHub\\Networking\\TCP Crypt\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\blaga\\OneDrive\\Facultate\\Teme\\RC\\TCP Crypt\\Client\\Client.csproj",
+      "projectPath": "C:\\GitHub\\Networking\\TCP Crypt\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\blaga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blaga\\OneDrive\\Facultate\\Teme\\RC\\TCP Crypt\\Client\\obj\\",
+      "outputPath": "C:\\GitHub\\Networking\\TCP Crypt\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\blaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
