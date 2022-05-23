@@ -13,7 +13,7 @@ namespace Diffie_Hellman_Key_Exchange
         public int n, g;
         public int X { get => x; set => x = value; }
         public int A { get => a; set => a = value; }
-        public int B { get => b; set { b = value; key =(int)Math.Pow(b,x) % n; } }
+        public int B { get => b; set { b = value; key =(int)((long)Math.Pow(b,x) % n); } }
         public int Key { get => key; set => key = value; }
         public static int Random(int max, int min = 0)
         {
@@ -25,7 +25,7 @@ namespace Diffie_Hellman_Key_Exchange
             this.n = n;
             this.g = g;
             x = Random(10); 
-            a = (int)Math.Pow(g, x) % n;
+            a = (int)((long)Math.Pow(g, x) % n);
         }
 
     }

@@ -14,7 +14,7 @@ namespace Diffie_Hellman_Key_Exchange
         public int n, g;
         public int Y { get => y; set => y = value; }
         public int B { get => b; set => b = value; }
-        public int A { get => a;  set { a = value; key = (int)Math.Pow(a, y) % n; } }
+        public int A { get => a;  set { a = value; key = (int)((long)Math.Pow(a, y) % n); } }
         public int Key { get => key; set => key = value; }
         public TcpListener TcpServer { get => tcpServer; set => tcpServer = value; }
         public static int Random(int max, int min = 0)
@@ -28,7 +28,7 @@ namespace Diffie_Hellman_Key_Exchange
             this.g = g;
             this.tcpServer = tcpServer;
             y = Random(10);
-            b = (int)Math.Pow(g, y) % n;
+            b = (int)((long)Math.Pow(g, y) % n);
         }
 
     }

@@ -17,7 +17,6 @@ C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\bin
 C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\bin\Debug\net6.0\Client.deps.json
 C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\bin\Debug\net6.0\Client.runtimeconfig.json
 C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\bin\Debug\net6.0\Client.dll
-C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\bin\Debug\net6.0\ref\Client.dll
 C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\bin\Debug\net6.0\Client.pdb
 C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
 C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
@@ -28,3 +27,4 @@ C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\obj
 C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\obj\Debug\net6.0\ref\Client.dll
 C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\obj\Debug\net6.0\Client.pdb
 C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\GitHub\Networking\Diffie-Hellman Key Exchange\Diffie-Hellman Key Exchange\obj\Debug\net6.0\refint\Client.dll
