@@ -37,17 +37,34 @@ string caesarDecrypt(string message,int key)
 {
     List<char> letters=new List<char>() { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
     string decMessage = "";
-    foreach (char c in message)
+    foreach (char x in message)
     {
+        char c;
+        bool flag = false;
+        if (Char.IsUpper(x))
+        {
+            flag = true;
+            c = Char.ToLower(x);
+        }
+        else
+            c = x;
         if (letters.Contains(c))
         {
             int index = letters.IndexOf(c) - key % letters.Count();
             if (index < 0)
                 index = letters.Count() + index;
-            decMessage += letters[index];
+            if (flag)
+                decMessage += Char.ToUpper(letters[index]);
+            else
+                decMessage += letters[index];
         }
         else
-            decMessage += c;
+        {
+            if (flag)
+                decMessage += Char.ToUpper(c);
+            else
+                decMessage += c;
+        }
     }
     return decMessage;
 }

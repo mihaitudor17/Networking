@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blaga\\Desktop\\Diffie-Hellman Key Exchange\\Server\\Server.csproj": {}
+    "C:\\GitHub\\Networking\\Diffie-Hellman Key Exchange\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blaga\\Desktop\\Diffie-Hellman Key Exchange\\Server\\Server.csproj": {
+    "C:\\GitHub\\Networking\\Diffie-Hellman Key Exchange\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blaga\\Desktop\\Diffie-Hellman Key Exchange\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\GitHub\\Networking\\Diffie-Hellman Key Exchange\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\blaga\\Desktop\\Diffie-Hellman Key Exchange\\Server\\Server.csproj",
+        "projectPath": "C:\\GitHub\\Networking\\Diffie-Hellman Key Exchange\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\blaga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blaga\\Desktop\\Diffie-Hellman Key Exchange\\Server\\obj\\",
+        "outputPath": "C:\\GitHub\\Networking\\Diffie-Hellman Key Exchange\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

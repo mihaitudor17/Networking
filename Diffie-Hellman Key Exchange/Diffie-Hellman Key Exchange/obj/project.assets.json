@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blaga\\Desktop\\Diffie-Hellman Key Exchange\\Diffie-Hellman Key Exchange\\Client.csproj",
+      "projectUniqueName": "C:\\GitHub\\Networking\\Diffie-Hellman Key Exchange\\Diffie-Hellman Key Exchange\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\blaga\\Desktop\\Diffie-Hellman Key Exchange\\Diffie-Hellman Key Exchange\\Client.csproj",
+      "projectPath": "C:\\GitHub\\Networking\\Diffie-Hellman Key Exchange\\Diffie-Hellman Key Exchange\\Client.csproj",
       "packagesPath": "C:\\Users\\blaga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blaga\\Desktop\\Diffie-Hellman Key Exchange\\Diffie-Hellman Key Exchange\\obj\\",
+      "outputPath": "C:\\GitHub\\Networking\\Diffie-Hellman Key Exchange\\Diffie-Hellman Key Exchange\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\blaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

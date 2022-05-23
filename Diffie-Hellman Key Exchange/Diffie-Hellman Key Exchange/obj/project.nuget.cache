@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j+88+2Tas5cIPgRftFCImMAbPVq/7utWwcEAVNqKG9im2h+OxbMCGCmbPJ4CGeiunh/CvdQ28tlnpIVHT/6bYg==",
+  "dgSpecHash": "NY85rkqY0JDWNfB1NpjSnIMOS0THE7jB/T/P4jqDLsQDcTTajsLcDy6SOXXRj05L+H+TZMDpcvkD1BOlCbsQeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blaga\\Desktop\\Diffie-Hellman Key Exchange\\Diffie-Hellman Key Exchange\\Client.csproj",
+  "projectFilePath": "C:\\GitHub\\Networking\\Diffie-Hellman Key Exchange\\Diffie-Hellman Key Exchange\\Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

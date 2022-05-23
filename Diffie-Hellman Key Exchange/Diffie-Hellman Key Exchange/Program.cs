@@ -37,26 +37,48 @@ string caesarCrypt(string message,int key)
 {
     List<char> letters = new List<char>() { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
     string cryptMessage = "";
-    foreach (char c in message)
+    foreach (char x in message)
     {
+        char c;
+        bool flag = false;
+        if (Char.IsUpper(x))
+        {
+            flag = true;
+            c = Char.ToLower(x);
+        }
+        else
+            c = x;
         if (letters.Contains(c))
         {
             int index = letters.IndexOf(c) + key % letters.Count();
-            if (index > letters.Count-1)
-                index = index-letters.Count();
-            cryptMessage += letters[index];
+            if (index > letters.Count - 1)
+                index = index - letters.Count();
+            if (flag)
+                cryptMessage += Char.ToUpper(letters[index]);
+            else
+                cryptMessage += letters[index];
         }
         else
-            cryptMessage += c;
+        {
+            if (flag)
+                cryptMessage += Char.ToUpper(c);
+            else
+                cryptMessage += c;
+        }
     }
     return cryptMessage;
 }
 
     int n, g;
+do {
     Console.WriteLine("Insert prime number: ");
     n = Int32.Parse(Console.ReadLine());
+} while (Primitive.isPrime(n) == false);
+do
+{
     Console.WriteLine("Insert primitive root: ");
     g = Int32.Parse(Console.ReadLine());
+} while (Primitive.findPrimitive(g) == -1);
     try
     {
         Client client = new Client(n, g);
